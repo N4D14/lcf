@@ -1,0 +1,17 @@
+D -- Rename home to search
+D -- Restangular services for home/search
+Populate DB
+Add and style seach tool
+Navbar & Footer architecture
+Add navbar and footer with styling
+Add login
+Add security
+Add products
+Modify search to be by product or company
+Add company pages
+-------- End MVP ---------
+Add abilty to post comments
+Add similar products (for tested products)
+Add user recommendations/ratings
+
+
