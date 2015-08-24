@@ -1,4 +1,4 @@
-# lcf
+# Live Cruelty Free
 
 ## Environment setup
 
@@ -9,7 +9,6 @@
     - django-tastypie
     - pygments
     - mysqlclient
-3. In the top level live_cruelty_free directory run:
-    npm install bower
-4. In the same directory run ./manage.py syncdb
+3. In the top level live_cruelty_free directory run: `npm install bower`
+4. In the same directory run: `./manage.py syncdb`
 
