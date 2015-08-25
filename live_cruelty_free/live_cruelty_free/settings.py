@@ -36,8 +36,9 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'djangobower',
     'tastypie',
+    'compressor',
+    'djangobower',
     'cruelty_free',
 )
 
@@ -120,4 +121,12 @@ STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.FileSystemFinder',
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     'djangobower.finders.BowerFinder',
+    'compressor.finders.CompressorFinder',
+)
+
+COMPRESS_ROOT = os.path.join(BASE_DIR, 'cruelty_free/static')
+
+LESS_PATH = os.path.join(BASE_DIR, 'node_modules/less/bin/lessc {infile} {outfile}')
+COMPRESS_PRECOMPILERS = (
+    ('text/less', LESS_PATH),
 )

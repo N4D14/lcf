@@ -6,6 +6,6 @@ angular.module('searchApp').controller('searchController', ['$scope', 'Company',
 
     // TODO: only fill as they type and filter by letters
     // must be at least one letter to start a request
-    $scope.companies = Company.all();
+    $scope.companies = Company.all({limit: 3});
 
   }]);

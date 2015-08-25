@@ -1,11 +1,13 @@
 D -- Rename home to search
 D -- Restangular services for home/search
-Populate DB
+D -- Basic styling for search/main page
+D -- Populate DB
 Add and style seach tool
 Navbar & Footer architecture
 Add navbar and footer with styling
 Add login
 Add security
+Clean DB (add parents etc)
 Add products
 Modify search to be by product or company
 Add company pages

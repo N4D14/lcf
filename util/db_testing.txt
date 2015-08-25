@@ -1,0 +1,255 @@
+2	3M	1-888-364-3577	www.solutions.3m.com
+2	Acuvue (Johnson & Johnson)	(800) 843-2020	www.acuvue.com/
+2	Aim (Church & Dwight)	800-524-1328	www.churchdwight.com/Conprods/oralcare/
+2	Air Wick (Reckitt Benckiser)	1-800-820-8939	www.airwick.us/access/index.html
+2	Alberto-Culver (Unilever)	708-450-3000	
+2	Almay (Revlon)	212-527-4000 800-992-5629	
+2	Always (Procter & Gamble)	513-983-1100 800-543-1745	www.always.com/index.jsp
+2	Ambi (Johnson & Johnson)	1-888-879-2624	www.ambiflawlessskin.com/
+2	American Beauty (Estee Lauder)	866-352-8337	
+2	Aquafresh (GlaxoSmithKline)	800-897-7535	www.aquafresh.com/
+2	Aramis (Estee Lauder)	212-572-3700	
+2	Arm & Hammer (Church & Dwight)	800-524-1328	www.armhammer.com
+2	Armor All (Clorox)	510-271-7000 800-227-1860	www.armorall.com/
+2	Arrid (Church & Dwight)	800-524-1328	www.arrid.com/
+2	Aussie (Procter & Gamble)	513-983-1100 800-543-1745	www.aussie.com/us/index.jsp
+2	Aveeno (Johnson & Johnson)	732-524-0400	www.aveeno.com/
+2	Avon Products, Inc.	212-282-5000 800-367-2866	www.avon.com
+2	Axe (Unilever)	212-888-1260 800-598-1223	www.theaxeeffect.com/flash.html
+2	Bain de Soleil (Bayer)	201-822-7000 800-842-4090	www.baindesoleil.com/
+2	Band-Aid (Johnson & Johnson)	1-866-565-2873	www.bandaid.com/index.jsp
+2	Bausch + Lomb (Valeant Pharmaceuticals)	800-553-5340	www.bausch.com/
+2	Beiersdorf	203-563-5800	www.beiersdorf.com
+2	Benefit Cosmetics	415-781-8153 800-781-2336	www.benefitcosmetics.com
+2	BENGAY (Johnson & Johnson)	1-800-223-0182	www.bengay.com/
+2	Bic Corporation	203-783-2000	www.bicworld.com
+2	Biotene (GlaxoSmithKline)	1-800-922-5856	www.biotene.com/
+2	Biotherm (L'Oreal)	212-818-1500	www.biotherm.com/index.htm
+2	Blue Buffalo	800-919-2833	www.bluebuffalo.com/
+2	Bobbi Brown (Estee Lauder)	212-572-4200	www.bobbibrown.com
+2	Boscia	949-476-8167 888-635-8884	www.boscia.net
+2	Bounce (Procter & Gamble)	800-526-8623	www.bouncefresh.com/
+2	Bounty (Procter & Gamble)	800-686-7143	www.bountytowels.com/
+2	Braun (Procter & Gamble)	1-800-272-8611	www.braun.com/us/home.html
+2	Breathe Right (GlaxoSmithKline)	1-800-858-6673	www.breatheright.com/
+2	Bumble and Bumble (Estee Lauder)	212-521-6500 800-728-6253	www.bumbleandbumble.com
+2	Cacharel (L'Oreal)	212-818-1500	www.cacharel.com/index.aspx#
+2	Calgon (Reckitt Benckiser)	1-800-228-4722	www.calgon.co.uk/
+2	Carefree (Johnson & Johnson)	1-877-408-7223	www.carefreeliners.com/
+2	Caress (Unilever)	1 800 598 5005	www.houseofcaress.com/
+2	Caudalie USA, Inc.	866-826-1615	www.caudalie-usa.com
+2	Chapstick (Pfizer)	800-322-3129 i	www.chapstick.com/
+2	Cheer (Procter & Gamble)	800-632-4337	www.cheer.com/
+2	Christina Aguilera Perfumes (Procter & Gamble)	513-983-1100 800-543-1745	www.christina-aguilera-perfumes.com/
+2	Church & Dwight (Arm & Hammer)	800-524-1328	www.churchdwight.com
+2	Citre Shine (Henkel)	800-424-5458	www.henkelna.com/shampoo-conditioner-1588.
+2	Clairol (Procter & Gamble)	800-252-4765	www.clairol.com
+2	Clarins of Paris	212-980-1800	www.clarins.com
+2	Clean & Clear (Johnson & Johnson)	732-524-0400	www.cleanandclear.com/
+2	Clear (Unilever)	1-800-372-6389	www.clearhaircare.com/
+2	Clearasil (Reckitt Benckiser)	1-800-228-4722	www.clearasil.us/
+2	Clinique (Estee Lauder)	212-572-3800	www.clinique.com
+2	Clorox	510-271-7000 800-227-1860	www.clorox.com
+2	Close-up (Church & Dwight)	800-524-1328	www.churchdwight.com
+2	Coach (Estee Lauder)	888-262-6224	www.coach.com
+2	Comet (Procter & Gamble)	1-800-926-9441	www.cometcleanser.com/
+2	Comfort (Unilever)	+1 201 894 7760	www.unilever.co.uk/brands/homecarebrands/co
+2	Command (3M)	1-800-934-7355	www.command.com
+2	Coppertone (Bayer)	201-822-7000 800-842-4090	www.coppertone.com/coppertone/index.jsp
+2	Crest (Procter & Gamble)	513-983-1100 800-543-1745	w ww. crest, co m/h o me/i n dex .jsp
+2	Dawn (Procter & Gamble)	800-725-3296	www.dawn-dish.com/us/dawn/
+2	Degree (Unilever)		www.degreedeodorant.com/en/
+2	Dial (HenKel)		www.dialsoap.com
+2	DOLCE & GABBANA (Procter & Gamble)	212-750-0055	
+2	Donna Karan (Estee Lauder)	212-572-4200	www.donnakaran.com
+2	Dove (Unilever)	212-888-1260 800-598-1223	www.dove.us/
+2	Downy (Procter & Gamble)	513-983-1100 800-543-1745	www.downy.com/
+2	Dr. Scholl's (Bayer)	1-866-360-3226	www.drscholls.com/
+2	Drano (S.C. Johnson)		www.drano.com/
+2	Dry Idea (Henkel)	800-258-3425	www.dryidea.com/dryidea
+2	Dunhill Fragrances (Procter & Gamble)	513-983-1100 800-543-1745	www.dunhillfragrances.com/en/index.htm
+2	Durex (Reckitt Benckiser)		www.durexusa.com/
+2	Easy-Off (Reckitt Benckiser)	973-633-3600 800-232-9665	www.easyoff.us/
+2	Elizabeth Arden	954-364-6900	
+2	Era (Procter & Gamble)	(800) 388-4372	www.eradetergent.com/
+2	Escada Fragrances (Procter & Gamble)	513-983-1100 800-543-1745	www.escada-fragrances.com/
+2	Estee Lauder	212-572-4200 888-378-3359	www.esteelauder.com
+2	Ever Clean (Clorox)	(510) 271-7000	www.everclean.com/
+2	Fantastik (S.C. Johnson)	www.fantastik.com/
+2	Febreze (Procter & Gamble)	513-983-1100 800-543-1745	www.febreze.com/en_US/home.do
+2	Fekkai (Procter & Gamble)	866-514-8048	www.fekkai.com/
+2	Finish (Reckitt Benckiser)	1-800-228-4722	www.finishdishwashing.com/
+2	Fixodent (Procter & Gamble)		www.dentureliving.com/
+2	Flirt! (Estee Lauder)	866-887-8884	www.flirtcosmetics.com
+2	Formula 409 (Clorox)	800-227-1860	www.formula409.com/
+2	Fresh Step (Clorox)	510-271-7000 800-227-1860	www.freshstep.com/
+2	got2b (Henkel)	800-424-5458	www.got2b.us/got2b/us/en/home.html
+2	Gain (Procter & Gamble)	(800) 888-4246	www.ilovegain.com/
+2	Gamier (L'Oreal)	212-818-1500	www.garnier.com/index2.aspx
+2	Gatineau (Revlon)		
+2	Gillette Co.(Procter & Gamble)	513-983-1100 800-543-1745	www.gillette.com
+2	Giorgio Armani (L'Oreal)	212-818-1500	www.giorgioarmanibeauty-usa.com
+2	Glad (Clorox)	510-271-7000 800-227-1860	www.glad.com/
+2	Glade (S.C. Johnson)		www.glade.com
+2	Good Skin Labs (Estee Lauder)	866-352-8338	www.goodskindermcare.com
+2	Grassroots (Estee Lauder)	866-680-1770	www.grassrootslife.com
+2	Green works (Clorox)	(510) 271-7000	www.greenworkscleaners.com/
+2	Gucci Fragrances (Procter & Gamble)	513-983-1100 800-543-1745	www.gucci.com/us/home
+2	Guerlain		
+2	H20 Plus	312-850-9283 800-242-2284	www.h2oplus.com
+2	Halo (Procter & Gamble)	1 800 935 5273	www.pgsalonpro.com/
+2	Head & Shoulders (Procter & Gamble)	513-983-1100 800-543-1745	www.headandshoulders.com/default.jsp
+2	Helena Rubinstein (L'Oreal)	212-818-1500	www.helenarubinstein.eom/_int/_en/#
+2	Herbal Essences (Procter & Gamble)	513-983-1100 800-543-1745	www.herbalessences.com/us/
+2	Hoyu		www.hoyu-usa.com/
+2	Hugo Boss (Procter & Gamble)	+49 (0)7123 94-0	www.hugoboss.com/us/en/collection.php
+2	lams (Procter & Gamble)	800-675-3849	www.iams.com
+2	Ivory (Procter & Gamble)	513-983-1100 800-543-1745	www.ivory.com/
+2	Jo Malone (Estee Lauder)	866-305-4706	www.jomalone.com
+2	Johnson & Johnson	732-524-0400	www.jnj.com
+2	Johnson's (Johnson & Johnson)	866-565-2229	www.johnsonsbaby.eom//
+2	Joy (Procter & Gamble)	513-983-1100 800-543-1745	www.pg.com
+2	Jurlique Pure Skin Care	212-803-8121 800-854-1110	www.jurlique.com
+2	K.Y. (Johnson & Johnson)	1-877-592-7263	www.k-y.com/index_us.jsp#
+2	Kaboom (Church & Dwight)	800-524-1328	www.kaboomkaboom.com/index.rn
+2	Kao USA	2	Kerastase (L'Oreal)	USA	1-877-254-9949	www.kerastase-usa.com/ en/ us/conso/home/h
+2	Kiehl's (L'Oreal)	1-800-543-4572	www.kiehls.com/
+2	L'Oreal USA	212-818-1500	www.loreal.com
+2	L'Occitane	212-696-9098 646-284-9231	www.loccitane.com
+2	La Mer (Estee Lauder)	866-850-9400	www.cremedelamer.com
+2	Lab Series for Men (Estee Lauder)	2	Lacoste Fragrances (Procter & Gamble)	513-983-1100 800-543-1745	www.lacoste-parfums.com/
+2	Lancome (L'Oreal)	212-818-1500	www.lancome-usa.com/?SESSIONID=
+2	LaRoche Posay (L'Oreal)	1-212-818-1500	www.laroche-posay.us/_us/_en/consumer/home/
+2	Liquid Plumr (Clorox)	510-271-7000 800-227-1860	www.liquidplumr.com/
+2	Listerine (Johnson & Johnson)	732-524-0400	www.listerine.com/
+2	Lubriderm (Johnson & Johnson)	732-524-0400	www.lubriderm.com/
+2	Lux (Unilever)	212-888-1260	www.unilever.com/ourbrands/personalcare/Lux
+2	Lysol (Reckitt Benckiser)	973-633-3600 800-232-9665	www.lysol.com/
+2	M.A.C. Cosmetics (Estee Lauder)		www.maccosmetics.com
+2	M ary Kay	972-687-6300 800-627-9529	www.marykay.com
+2	Matrix (L'Oreal)	212-818-1500	www.matrixbeautiful.com/
+2	Max Factor (Procter & Gamble)	513-983-1100 800-543-1745	www.maxfactor.com/
+2	Maybelline (L'Oreal)	212-818-1500	www.maybelline.com/
+2	Mead	937-495-3312	www.mead.com
+2	Melaleuca	208-522-0700	www.melaleuca.com
+2	Mentadent (Church & Dwight)	800-524-1328	www.mentadent.com/
+2	Merck	908-423-1000	www.merck.com/
+2	Michael Kors (Estee Lauder)	877-890-7171	
+2	Missoni (Estee Lauder)		www.missoni.com/ing.html
+2	Mitchum Deodorant (Revlon)	212-527-4000 800-473-8566	www.mitchumman.com/
+2	Mizani (L'Oreal)	877-726-3624	www.mizani-usa.com/
+2	Mr. Clean (Procter & Gamble)	513-983-1100 800-543-1745	www.mrclean.com/en_US/index.shtml
+2	Nair (Uhurch & Dwight)	800-524-1328	www.naircare.com/
+2	Natural Balance Pet Foods, Inc.	800-367-2391 800-829-4493	www.naturalbalanceinc.com
+2	Natural Instincts (Procter & Gamble)	1-800-252-4765	www.clairol.com/naturalinstincts/index.jsp
+2	Nature's Source (SC Johnson)	1-800-494-4855	www.naturessourcecleaners.com/
+2	Neutrogena (Johnson & Johnson)	732-524-0400 1-800-582-4048	www.neutrogena.com/
+2	New Dana Perfumes	570-474-6701 800-822-8547	
+2	Nexcare (3M)	1-800-537-2191	www.nexcare.com
+2	Nexxus (Unilever)		www.nexxus.com/
+2	Nice an Easy (Procter & Gamble)	1-800-252-4765	www.clairol.com/niceneasy/index.jsp
+2	Nioxin (Procter & Gamble)		www.nioxin.com/en-US/home-page.aspx
+2	Noxzema (Unilever)	1-800-436-4361	www.noxzema.com/
+2	Nu Skin International	800-487-1000	www.nuskin.com
+2	Off (S.C. Johnson)		www.offprotects.com/
+2	Ojon (Estee Lauder)	866-553-6566	www.ojon.com
+2	Olay (Procter & Gamble)	800-543-1745	www.oilofolay.com
+2	Old English (Reckitt Benckiser)	973-633-3600 800-232-9665	www.oldenglishpolish.com/
+2	Old Spice (Procter & Gamble)	513-983-1100 800-543-1745	www.oldspice.com/
+2	Oomph! (Clorox)	(510) 271-7000	www.stp-oomph.com/
+2	Orange Glo (Church & Dwight)	905-660-7633	www.orangeglo.com/
+2	Organix Hair	813-855-8035	www.organixhair.com
+2	Origins (Estee Lauder)	212-572-4100 800-674-4467	www.origins.com
+2	Osiao (Estee Lauder)		www.osiao.com/
+2	Oust (SC Johnson)	1-800-494-4855	www.oust.com/
+2	OxiClean (Church & Dwight)	800-524-1328	www.oxiclean.com/default2.asp
+2	Pampers (Procter & Gamble)	513-983-1100 800-543-1745	www.pampers.com/en_US/home.do
+2	Pantene (Procter & Gamble)	800-945-7768	www.pantene.com
+2	Pearl Drops (Church & Dwight)	800-524-1328	www.pearldrops.com/
+2	Pepsodent (Church & Dwight)	1-800-524-1328	www.churchdwight.com/brands-and-products/b
+2	Physique (Procter & Gamble)	800-214-8957	www.physique.com
+2	Pine-Sol (Clorox)	510-271-7000 800-227-1860	www.pinesol.com/index.shtml
+2	Piz Buin (Johnson & Johnson)	0845 601 5792	www.pizbuin.com/en/welcome
+2	Pledge (S.C. Johnson)		www.pledge.com/
+2	Polident (GlaxoSmithKline)	1-866-844-2796	www.polident.com/
+2	Ponds (Unilever)	800-909-9493	www.ponds.com
+2	Post-It (3M)	1-800-395-1223	www.post-it.com
+2	Prescriptives (Estee Lauder)	212-572-4400	www.prescriptives.com
+2	Procter & Gamble	513-983-1100 800-543-1745	www.pg.com
+2	Pronamel (GlaxoSmithKline)	1-866-844-2796	www.pronamel.us/
+2	Puffs (Procter & Gamble)	513-983-1100 800-543-1745	www.puffs.com/en_US/pages/home.shtml
+2	Purex (Dial)	800-528-0849	www.purex.com/
+2	Purpose (Johnson & Johnson)	1-866-344-4848	www.purposeskincare.com/
+2	Raid (S.C. Johnson)		www.killsbugsdead.com/
+2	Ralph Lauren Fragrances (L'oreal)	212-818-1500	www.ralphlauren.com/shop/index.jsp2category
+2	Reach (Johnson & Johnson)	1-866-732-2482	www.reachbrand.com/
+2	Reckitt Benckiser	973-633-3600 800-232-9665	www.reckittbenckiser.com
+2	Redken (L'Oreal)	212-818-1500	www.redken.com/international/
+2	Rembrandt (Johnson & Johnson)	732-524-0400	www.rembrandt.com/
+2	Renuzit (Dial)	800-528-0849	www.renuzit.com/
+2	Resolve (Reckitt Benckiser)	973-633-3600 800-232-9665	www.reckittbenckiser.com
+2	Revlon	212-527-4000 800-473-8566	www.revlon.com
+2	Rid-X (Reckitt Benckiser)	1-800-228-4722	www.rid-x.com/index.shtml
+2	Right Guard (Henkel)	800-258-3425	www.rightguard.com/
+2	ROC (Johnson & Johnson)	732-524-0400	www.rocskincare.com/index_roc.jsp
+2	Rogaine (Johnson & Johnson)	1-800-223-0182	www.rogaine.com/
+2	S.C.Johnson	414-260-2000 800-494-4855	www.scjohnson.com/en/home.aspx
+2	S.O.S. (Clorox)	510-271-7000 800-227-1860	www.clorox.com
+2	Safeguard (Procter & Gamble)	(800) 595-1375	www.safeguardsoap.com/
+2	Savlon (Johnson & Johnson)	+44 (0)1403 210211	www.novartis.co.uk
+2	Schwarzkopf (Henkel)		www.schwarzkopf.com/skus/en/home.html
+2	Scoop Away (Clorox)	(510) 271-7000	www.scoopaway.com/
+2	Scope (Procter & Gamble)	513-983-1100 800-543-1745	www.getclose.com/
+2	Scotch (3M)	1-800-328-6276	www.scotchbrand.com
+2	Scotch-Brite (3M)	1-800-846-8887	www.scotch-brite.com
+2	Scotchgard (3M)	1-800-433-3296	www.scotchgard.com
+2	Scrub Free (Church & Dwight)	1-800-524-1328	www.churchdwight.com/brands-and-products/b
+2	Scrubbing Bubbles (S.C. Johnson)	414-260-2000 800-494-4855	www.scrubbingbubbles.com/
+2	Sebastian Professional (Procter & Gamble)	800-935-5273	www.sebastianprofessional.com/en_US/
+2	Secret (Procter & Gamble)	513-983-1100	www.secret-deodorant.com/SecretGlobal.do
+2	Sensodyne (GlaxoSmithKline)	866-844-2797	
+2	Shiseido Cosmetics	212-805-2300	www.shiseido.com/
+2	Shout (S.C. Johnson)	414-260-2000	www.shoutitout.com/
+2	Shower to Shower (Johnson & Johnson)	1-866-274-6937	www.showertoshower.com/index.jsp
+2	Shu Uemura(L'Oreal)	1-888-748-5678	www.shuuemura-usa.com/
+2	Signal (Unilever)	800-598-1223	www.unilever.com
+2	Sinful Colors (Revlon)		
+2	SK-II (Procter & Gamble)	1-866-678-1770	www.sk-ii.com/
+2	Skin ID (Johnson & Johnson)	1-866-742-0201	www.skinid.com/econsumer/clearskin/index.vi
+2	Soft Scrub (Dial)	800-528-0849	www.softscrub.com/
+2	SoftSheen (L'Oreal)	212-818-1500	www.softsheen-carson.com/_us/_en/index.aspx
+2	Spray 'N Wash (Reckitt Benckiser)	800-232-9665	www.spraynwash.com/
+2	St. Ives (Unilever)	1-888-912-9867	www.stives.com/
+2	Stayfree (Johnson & Johnson)	1-888-782-9373	www.stayfree.com/
+2	Stila Cosmetics	323-913-9443	www.stilacosmetics.com
+2	Suave (Unilever)	212-888-1260 800-598-1223	www.suave.com/
+2	Sunlight (Unilever)	+1 201 894 7760	www.unilever.com/brands/homecarebrands/sur
+2	Sunsilk (Unilever)	212-888-1260 800-598-1223	www.sunsilk.com/Landing.aspx
+2	Swiffer (Procter & Gamble)	513-983-1100 800-543-1745	www.swiffer.com/swiffer/en_US/home.do
+2	Thermacare (Pfizer)	1-800-323-3383	www.thermacare.com/
+2	Thursday Plantation	(612) 9934 6616 800-645-9500	www.thursdayplantation.com/
+2	Tide (Procter & Gamble)	513-983-1100 800-543-1745	www.tide.com/en_US/index.jsp
+2	Tilex (Clorox)	510-271-7000 800-227-1860	www.tilex.com/
+2	Tom Ford (Estee Lauder)		www.tomford.com/
+2	Tommy Hilfiger (Estee Lauder)		www.tommy.com
+2	Tone (Henkel)	800-258-3425	www.toneskincare.com/
+2	Trend (Henkel)	800-457-8739	www.trenddetergent.com/
+2	Tresemme (Unilever)	1-888-497-7054	www.tresemme.com/
+2	Trojan (Church & Dwight)	1-800-524-1328	www.trojancondoms.com/
+2	Unilever	212-888-1260 800-598-1223	www.unilever.com
+2	Vaseline (Unilever)	212-888-1260 800-598-1223	www.vaseline.com/
+2	Veet (Reckitt Benckiser)	973-633-3600 800-232-9665	www.veet.com/
+2	Venus (Procter & Gamble)		www.gillettevenus.com/en-US/products/
+2	Vichy (L'Oreal)	212-818-1500	www.vichyusa.com
+2	Vicks (Procter & Gamble)	513-983-1100 800-543-1745	www.pg.com
+2	Victoria's Secret (Limited Brands)	800-411-5116	www.victoriassecret.com
+2	Vidal Sasson (Procter & Gamble)	513-983-1100 800-543-1745	www.sassoon.com/
+2	Viktor & Rolf (L'Oreal)	1-212-818-1500	www.viktor-rolf.com/_en/_ww/index.htm
+2	Visine (Johnson & Johnson)	1-888-734-7648	www.visine.com/
+2	Walgreens	800-925-4733	www.walgreens.com
+2	Wella (Procter & Gamble)		www.wella.com
+2	Windex (S.C. Johnson)		www.windex.com/
+2	Woolite (Reckitt Benckiser)	973-633-3600 800-232-9665	www.woolite.com/
+2	Xtra (Church & Dwight)	1-800-617-4220	www.xtralaundry.com/
+2	Yves Rocher USA	888-909-0771	www.yvesrocherusa.com
+2	Zout (Henkel)	800-548-9770	www.zout.com/

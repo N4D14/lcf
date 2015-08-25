@@ -8,10 +8,23 @@ STYLE_CHOICES = sorted((item, item) for item in get_all_styles())
 
 # Create your models here.
 class Company(models.Model) :
-    CATEGORY_CHOICES = ((1, 'Cruelty Free'), (2, 'Tests'), (3, 'Vegan'), (4, 'PETA'), (5, 'Mall Partner'))
+    CATEGORY_CHOICES = ((1, 'Cruelty Free'), 
+                        (2, 'Tests'), 
+                        (3, 'Vegan'), 
+                        (4, 'PETA'), 
+                        (5, 'Mall Partner'), 
+                        (6, 'Vegan & PETA'), 
+                        (7, 'Vegan & Mall Partner'))
+
+    PRODUCT_CHOICES =  ((1, 'Personal Care'), 
+                        (2, 'Household Care'), 
+                        (3, 'Pet Care'), 
+                        (4, 'Nutrition'), 
+                        (5, 'Office Supplies'))
 
     parent = models.ForeignKey('self', blank=True, null=True)
     name = models.CharField(max_length=250)
     category = models.PositiveSmallIntegerField(choices=CATEGORY_CHOICES)
     url = models.URLField(blank=True, null=True)
     phone = models.CharField(max_length=11, blank=True, null=True)
+    product = models.PositiveSmallIntegerField(choices=PRODUCT_CHOICES, blank=True, null=True)

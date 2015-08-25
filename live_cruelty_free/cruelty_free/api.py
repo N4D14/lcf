@@ -10,3 +10,6 @@ class CompanyResource(ModelResource):
         # authentication = Authentication()
         # authorization = Authorization()
         always_return_data = True
+        filtering = {
+            'name': ALL,
+        }

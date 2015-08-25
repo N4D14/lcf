@@ -23,5 +23,4 @@ angular.module('mainApp').config(['$stateProvider', '$urlRouterProvider', 'Resta
         }
         return newResponse;
     });
-    RestangularProvider.setRequestSuffix('/?format=json');
 }]);

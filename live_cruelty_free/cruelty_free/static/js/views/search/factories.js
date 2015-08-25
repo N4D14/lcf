@@ -5,8 +5,10 @@ angular.module('searchFactory')
     .factory('Company', ['Restangular', function(Restangular){
         var service = {};
 
-        service.all = function() {
-            return Restangular.all('company').getList().$object;
+        service.all = function(params) {
+            params = params || {}
+            params.format = 'json'
+            return Restangular.all('company').getList(params).$object;
         };
 
         return service;
