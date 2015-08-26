@@ -4,8 +4,13 @@
 angular.module('searchApp').controller('searchController', ['$scope', 'Company',
   function($scope, Company) {
 
-    // TODO: only fill as they type and filter by letters
-    // must be at least one letter to start a request
-    $scope.companies = Company.all({limit: 3});
+    $scope.getCompanies = function(search_text) {
+        var companies = Company.all({limit: 10, name__icontains: search_text});
+        return companies.then(function(companies) {
+            return companies.map(function(item){
+                return item.name;
+            });
+        });
+    };
 
   }]);

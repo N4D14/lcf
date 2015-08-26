@@ -1,3 +1,14 @@
 <div class="search-container frosted-glass">
-    <div ng-repeat="company in companies">{{company.name}}</div>
+    <input type="text" 
+           ng-model="companySelected" 
+           placeholder="Brand, Company, Product"
+           typeahead="company for company in getCompanies($viewValue)" 
+           typeahead-loading="loadingCompanies" 
+           typeahead-no-results="noResults" 
+           class="form-control">
+    <i ng-show="loadingCompanies" class="glyphicon glyphicon-refresh"></i>
+    <div ng-show="noResults">
+        <i class="glyphicon glyphicon-remove"></i> No Results Found
+    </div>
+<!--     <div ng-repeat="company in companies">{{company.name}}</div>-->
 </div>

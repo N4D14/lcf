@@ -8,7 +8,7 @@ angular.module('searchFactory')
         service.all = function(params) {
             params = params || {}
             params.format = 'json'
-            return Restangular.all('company').getList(params).$object;
+            return Restangular.all('company').getList(params);
         };
 
         return service;
