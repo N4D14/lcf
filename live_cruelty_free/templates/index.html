@@ -17,21 +17,21 @@
     <!-- TODO minify and cleanup local js -->
     <script type="text/javascript" src='{% static 'js/app.modules.js' %}'></script>
     <script type="text/javascript" src='{% static 'js/app.config.js' %}'></script>
+    <script type="text/javascript" src='{% static 'js/views/main/directives.js' %}'></script>
     <script type="text/javascript" src='{% static 'js/views/search/factories.js' %}'></script>
     <script type="text/javascript" src='{% static 'js/views/search/controllers.js' %}'></script>
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>    
     <link type="text/css" rel="stylesheet" href='{% static 'bootstrap/dist/css/bootstrap.css' %}'>
 
     <!-- Local stylesheets -->
     {% if debug %}
         <script src='{% node 'less/dist/less.min.js' %}'></script>
         <link type="text/less" rel="stylesheet" href='{% static 'less/main.less' %}'>
-        <link type="text/less" rel="stylesheet" href='{% static 'less/search.less' %}'>
     {% else %}
         {% compress css %}
         <link type="text/less" rel="stylesheet" href='{% static 'less/main.less' %}'>
-        <link type="text/less" rel="stylesheet" href='{% static 'less/search.less' %}'>
         {% endcompress %}
     {% endif %}
 </head>

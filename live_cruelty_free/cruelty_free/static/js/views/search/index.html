@@ -1,14 +1,47 @@
+<div header></div>
+
 <div class="search-container frosted-glass">
-    <input type="text" 
-           ng-model="companySelected" 
-           placeholder="Brand, Company, Product"
-           typeahead="company for company in getCompanies($viewValue)" 
-           typeahead-loading="loadingCompanies" 
-           typeahead-no-results="noResults" 
-           class="form-control">
-    <i ng-show="loadingCompanies" class="glyphicon glyphicon-refresh"></i>
-    <div ng-show="noResults">
-        <i class="glyphicon glyphicon-remove"></i> No Results Found
+    <div class="input-group">
+      <input type="text"
+             ng-model="selectedName" 
+             ng-keypress="inputKeyPressed($event)" 
+             placeholder="Brand, Company, Product"
+             typeahead="company.name for company in getCompanies($viewValue)" 
+             typeahead-loading="loadingCompanies" 
+             typeahead-no-results="noResults" 
+             typeahead-on-select="companySelected($item, $model, $label)"
+             class="form-control"
+             spellcheck=false>
+      <span class="input-group-addon search-button" ng-click="runSearch()"><i class="glyphicon glyphicon-search"></i></span>
     </div>
-<!--     <div ng-repeat="company in companies">{{company.name}}</div>-->
+</div>
+
+<div class="result-container frosted-glass" ng-show="foundResult">
+    <div ng-show="selectedCompany">
+      <div class="selected-company-title">{{selectedCompany.name}}</div>
+      <div class="selected-company-url"><a ng-href="http://{{selectedCompany.url}}" target="_blank">{{selectedCompany.url}}</a></div>
+      <div class="category-wrapper">
+        <div ng-show="selectedCompany.category==2" 
+             class="category-icon icon-tests">
+          <i class="glyphicon glyphicon-remove"></i>
+        </div>
+        <div ng-show="selectedCompany.category!=2" 
+             class="category-icon icon-cruelty-free">
+          <i class="glyphicon glyphicon-ok"></i>
+        </div>
+        <div ng-show="selectedCompany.category==3 || selectedCompany.category==6 || selectedCompany.category==7" 
+             class="category-icon icon-vegan">
+          <i class="glyphicon glyphicon-grain"></i>
+        </div>
+        <div ng-show="selectedCompany.category==4 || selectedCompany.category==6" 
+             class="category-icon icon-peta">
+          <span>P</span>
+        </div>
+        <div ng-show="selectedCompany.category==5 || selectedCompany.category==7" 
+             class="category-icon icon-mall">
+          <span>M</span>
+        </div>
+      </div>
+    </div>
+    <div ng-show="!selectedCompany" >Could not find the requested company or brand.</div>
 </div>

@@ -1,5 +1,5 @@
 from tastypie.resources import ModelResource
-from tastypie.constants import ALL
+from tastypie.constants import ALL, ALL_WITH_RELATIONS
 from cruelty_free.models import Company
 
 
