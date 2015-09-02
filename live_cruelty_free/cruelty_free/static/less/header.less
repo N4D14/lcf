@@ -18,20 +18,26 @@
     height: 6em;
 
     .header-title {
-        font-size: 3em;
-        padding: 0.5em 0;
-        line-height: 1em;
+        display: inline-block;
+        font-size: 2.5em;
+        padding: 0.45em 0;
 
         .header-text {
-            font-family: 'Lobster', cursive;
+            display: inline-block;
+            font-family: 'Rock Salt', cursive;
             background: -webkit-linear-gradient(@orange-text-start-bg, @orange-text-end-bg);
             -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;            
+            -webkit-text-fill-color: transparent;
         }
 
         .header-icon-vegan {
+            font-size: 1.2em;
             padding: 0 0.25em 0 0.5em;
             color: rgba(255, 135, 0, 1);
+        }
+
+        .glyphicon {
+            top: 7px;
         }        
     }
 }

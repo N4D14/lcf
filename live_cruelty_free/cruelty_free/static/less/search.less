@@ -28,11 +28,26 @@
 
 
 .result-container {
+    position: relative;
     width: 40%;
     margin: 2em auto;
     padding: 3em 2em;
     border-radius: 0.25em;
     text-align: center;
+
+    .close-results {
+        display: inline-block;
+        position: absolute;
+        top: 0.25em;
+        right: 0.25em;
+        font-size: 1.3em;
+        text-align: right;
+        color: darken(rgba(24, 136, 217, 0.5), 50%);
+    }
+
+    .close-results:hover {
+        color: darken(rgba(24, 136, 217, 1), 50%);        
+    }
 
     .selected-company-title {
         font-size: 2em;
@@ -53,22 +68,22 @@
 
     .category-wrapper {
         display: inline-block;
-        background-color: lighten(rgba(24, 136, 217, 1), 40%);        
+        /*background-color: lighten(rgba(24, 136, 217, 1), 40%);*/        
         border-radius: 0.25em;
         margin: 1em 0.5em;
 
         .category-icon {
             display: inline-block;
-            font-size: 2em;
+            font-size: 2.5em;
             padding: 0.5em 0.5em;
         }
 
         .icon-tests {
-            color: red;
+            color: darken(red, 10%);
         }
         
         .icon-cruelty-free {
-            color: rgba(52, 154, 37, 1);
+            color: rgba(12, 116, 1, 1);
         }
 
         .icon-vegan {

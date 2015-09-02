@@ -17,13 +17,14 @@
 </div>
 
 <div class="result-container frosted-glass" ng-show="foundResult">
+  <div class="close-results" ng-click="closeResultWindow()"><i class="glyphicon glyphicon-remove-circle"></i></div>
     <div ng-show="selectedCompany">
       <div class="selected-company-title">{{selectedCompany.name}}</div>
       <div class="selected-company-url"><a ng-href="http://{{selectedCompany.url}}" target="_blank">{{selectedCompany.url}}</a></div>
       <div class="category-wrapper">
         <div ng-show="selectedCompany.category==2" 
              class="category-icon icon-tests">
-          <i class="glyphicon glyphicon-remove"></i>
+          <i class="glyphicon glyphicon-alert"></i>
         </div>
         <div ng-show="selectedCompany.category!=2" 
              class="category-icon icon-cruelty-free">

@@ -37,8 +37,6 @@ angular.module('searchApp').controller('searchController', ['$scope', 'Company',
     };
 
     $scope.inputKeyPressed = function(key_event) {
-        console.log($scope.selectedName);
-        console.log(key_event);
         if ($scope.selectedName && key_event.keyCode === 13) {
             $scope.runSearch();
         }
@@ -51,5 +49,9 @@ angular.module('searchApp').controller('searchController', ['$scope', 'Company',
         }
         $scope.canClearResult = true;
     });
+
+    $scope.closeResultWindow = function() {
+        $scope.foundResult = false;
+    };
 
   }]);
