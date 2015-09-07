@@ -9,5 +9,6 @@ cf_api.register(CompanyResource())
 
 urlpatterns = [
     url(r'^$', views.index, name='index'),
+    url(r'^login/$', views.LoginFormView.as_view(), name='login_form'),
     url(r'^api/', include(cf_api.urls)),
 ]

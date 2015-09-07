@@ -10,16 +10,21 @@
     <script type="text/javascript" src='{% static 'jquery/dist/jquery.min.js' %}'></script>
     <script type="text/javascript" src='{% static 'lodash/lodash.min.js' %}'></script>
     <script type="text/javascript" src='{% static 'angular/angular.js' %}'></script>
+    <script type="text/javascript" src='{% static 'angular-route/angular-route.js' %}'></script>
     <script type="text/javascript" src='{% static 'angular-ui-router/release/angular-ui-router.min.js' %}'></script>
     <script type="text/javascript" src='{% static 'restangular/dist/restangular.min.js' %}'></script>
     <script type="text/javascript" src='{% static 'angular-ui-bootstrap-typeahead/ui-bootstrap-typeahead-tpls.min.js' %}'></script>
+    <script type="text/javascript" src='{% static 'djangular/js/django-angular.min.js' %}' ></script>
 
     <!-- TODO minify and cleanup local js -->
-    <script type="text/javascript" src='{% static 'js/app.modules.js' %}'></script>
-    <script type="text/javascript" src='{% static 'js/app.config.js' %}'></script>
-    <script type="text/javascript" src='{% static 'js/views/main/directives.js' %}'></script>
+    <script type="text/javascript" src='{% static 'js/views/common/app.js' %}'></script>
+    <script type="text/javascript" src='{% static 'js/views/common/directives.js' %}'></script>
+    <script type="text/javascript" src='{% static 'js/views/search/app.js' %}'></script>
     <script type="text/javascript" src='{% static 'js/views/search/factories.js' %}'></script>
     <script type="text/javascript" src='{% static 'js/views/search/controllers.js' %}'></script>
+    <script type="text/javascript" src='{% static 'js/views/auth/app.js' %}'></script>
+    <script type="text/javascript" src='{% static 'js/views/auth/factories.js' %}'></script>
+    <script type="text/javascript" src='{% static 'js/views/auth/controllers.js' %}'></script>
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,300,300italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>    
@@ -35,8 +40,8 @@
         {% endcompress %}
     {% endif %}
 </head>
-<body ng-app="mainApp">
-   <!-- TODO put header and foot in here using nesting! -->
-   <div ui-view ></div>
+<body>
+    {% block content %}
+    {% endblock content %}
 </body>
 </html>

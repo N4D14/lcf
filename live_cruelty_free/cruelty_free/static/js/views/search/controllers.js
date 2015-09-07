@@ -20,6 +20,7 @@ angular.module('searchApp').controller('searchController', ['$scope', 'Company',
 
     $scope.companySelected = function(item, model, label) {
         $scope.selectedCompany = item;
+        $scope.setResultTextFromSelected($scope.selectedCompany);
         $scope.canClearResult = false;
         $scope.selectedName = null;
         $scope.foundResult = true;
@@ -32,6 +33,7 @@ angular.module('searchApp').controller('searchController', ['$scope', 'Company',
             if (companies.length == 1) {
                 $scope.selectedCompany = companies[0];
             };
+            $scope.setResultTextFromSelected($scope.selectedCompany);
             $scope.foundResult = true;
         });        
     };
@@ -53,5 +55,17 @@ angular.module('searchApp').controller('searchController', ['$scope', 'Company',
     $scope.closeResultWindow = function() {
         $scope.foundResult = false;
     };
+
+    $scope.setResultTextFromSelected = function(company) {
+        if (company) {
+            if (company.category == 2) {
+                $scope.resultText = "This company tests on or uses products that are tested on animals."
+            } else {
+                $scope.resultText = "This company is cruelty free."
+            }
+        } else {
+            $scope.resultText = "Could not find the requested company or brand.";
+        }
+    }
 
   }]);

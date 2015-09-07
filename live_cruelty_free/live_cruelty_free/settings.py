@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'tastypie',
     'compressor',
     'djangobower',
+    'djangular',
     'cruelty_free',
 )
 
@@ -110,12 +111,14 @@ BOWER_PATH = os.path.join(BASE_DIR, 'node_modules/bower/bin/bower')
 BOWER_INSTALLED_APPS = (
     'angular#1.4.4',
     'angular-ui-router#0.2.15',
+    'angular-route#1.4.4',
     'restangular',
     'bootstrap',
     'angular-ui-bootstrap-typeahead',
 )
 
  
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATIC_URL = '/static/'
 
 STATICFILES_FINDERS = (

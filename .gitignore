@@ -3,3 +3,4 @@ components/
 __pycache__/
 CACHE/
 *.pyc
+live_cruelty_free/static/

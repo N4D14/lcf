@@ -21,6 +21,7 @@
     <div ng-show="selectedCompany">
       <div class="selected-company-title">{{selectedCompany.name}}</div>
       <div class="selected-company-url"><a ng-href="http://{{selectedCompany.url}}" target="_blank">{{selectedCompany.url}}</a></div>
+      <!-- TODO: move category logic to controller -->
       <div class="category-wrapper">
         <div ng-show="selectedCompany.category==2" 
              class="category-icon icon-tests">
@@ -44,5 +45,5 @@
         </div>
       </div>
     </div>
-    <div ng-show="!selectedCompany" >Could not find the requested company or brand.</div>
+    <div class="result-text">{{resultText}}</div>
 </div>

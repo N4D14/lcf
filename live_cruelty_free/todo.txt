@@ -3,11 +3,13 @@ D -- Restangular services for home/search
 D -- Basic styling for search/main page
 D -- Populate DB
 D -- Add and style seach tool
-Add clear functionality and search buttons to search bar
-Navbar & Footer architecture
-Add navbar and footer with styling
+D -- Add clear functionality and search buttons to search bar
+D -- Navbar & Footer architecture
+D -- Add navbar with styling
+Add explanations text (dark/black see through)
 Add login
 Add security
+Add footer
 Clean DB (add parents etc)
 Add products
 Modify search to be by product or company
